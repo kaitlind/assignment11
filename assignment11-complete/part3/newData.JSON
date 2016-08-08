@@ -1,0 +1,27 @@
+{"products":[
+	{
+		"name":"Widget 1",
+		"price":"$5",
+		"descr":"Widget 1 is pretty amazing in that it's very cheap. It will break in about an hour, but, hey, that's what you're paying for."
+	},
+	{
+		"name":"Widget 2",
+		"price":"$10",
+		"descr":"Widget 2 is halfway between none at all and the most expensive. It's okay quality and should last a mediocre amount of time."
+	},
+	{
+		"name":"Widget 3",
+		"price":"$7",
+		"descr":"Widget 3 is for those who want something slightly better than Widget 1 but still don't want to spend too much."
+	},
+	{
+		"name":"Widget 4",
+		"price":"$14",
+		"descr":"Widget 4 is of nicer quality but doesn't put as much of a strain on a tight budget."
+	},
+	{
+		"name":"Widget 5",
+		"price":"$20",
+		"descr":"Widget 3 is the highest quality and should keep for a long time."
+	}
+]}
